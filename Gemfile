@@ -47,6 +47,7 @@ gem 'better_errors', '~> 2.10', '>= 2.10.1'
 # bulma-css
 gem "bulma-rails", "~> 0.9.4"
 gem 'simple_form', '~> 5.3'
+gem 'binding_of_caller'
 
 
 group :development, :test do
